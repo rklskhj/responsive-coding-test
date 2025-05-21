@@ -172,6 +172,106 @@ export default function SajuTable() {
             <tr className="border-b border-black">
               <td className="p-1.5 text-center border-r border-black w-1/5">
                 <div className=" text-black">
+                  <span className="block text-sm font-bold">十星</span>
+                  <span className="block text-[10px] leading-none">(십성)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black">
+                  <span className="block text-base font-bold">比肩</span>
+                  <span className="block text-xs leading-none ">(비견)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black">
+                  <span className="block text-base font-bold">劫財</span>
+                  <span className="block text-xs leading-none ">(겁재)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black ">
+                  <span className="block text-base font-bold">食神</span>
+                  <span className="block text-xs leading-none ">(식신)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-black w-1/5">
+                <div className=" text-black ">
+                  <span className="block text-base font-bold">偏財</span>
+                  <span className="block text-xs leading-none ">(편재)</span>
+                </div>
+              </td>
+            </tr>
+            <tr className="border-b border-black">
+              <td className="p-1.5 text-center border-r border-black w-1/5">
+                <div className=" text-black">
+                  <span className="block text-sm font-bold">十二運星</span>
+                  <span className="block text-[10px] leading-none">
+                    (십이운성)
+                  </span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black">
+                  <span className="block text-base font-bold">死</span>
+                  <span className="block text-xs leading-none ">(사)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black">
+                  <span className="block text-base font-bold">帝旺</span>
+                  <span className="block text-xs leading-none ">(제왕)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black ">
+                  <span className="block text-base font-bold">胎</span>
+                  <span className="block text-xs leading-none ">(태)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-black w-1/5">
+                <div className=" text-black ">
+                  <span className="block text-base font-bold">長生</span>
+                  <span className="block text-xs leading-none ">(장생)</span>
+                </div>
+              </td>
+            </tr>
+            <tr className="border-b border-black">
+              <td className="p-1.5 text-center border-r border-black w-1/5">
+                <div className=" text-black">
+                  <span className="block text-sm font-bold">十二神殺</span>
+                  <span className="block text-[10px] leading-none">
+                    (십이신살)
+                  </span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black">
+                  <span className="block text-base font-bold">劫殺</span>
+                  <span className="block text-xs leading-none ">(겁살)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black">
+                  <span className="block text-base font-bold">地殺</span>
+                  <span className="block text-xs leading-none ">(지살)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-gray-300 w-1/5">
+                <div className=" text-black ">
+                  <span className="block text-base font-bold">驛馬殺</span>
+                  <span className="block text-xs leading-none ">(역마살)</span>
+                </div>
+              </td>
+              <td className="p-1.5 text-center bg-sub2 border-r border-black w-1/5">
+                <div className=" text-black ">
+                  <span className="block text-base font-bold">將星殺</span>
+                  <span className="block text-xs leading-none ">(장성살)</span>
+                </div>
+              </td>
+            </tr>
+            <tr className="border-b border-black">
+              <td className="p-1.5 text-center border-r border-black w-1/5">
+                <div className=" text-black">
                   <span className="block text-sm font-bold">貴人</span>
                   <span className="block text-[10px] leading-none">(귀인)</span>
                 </div>
